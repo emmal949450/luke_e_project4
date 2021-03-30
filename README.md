@@ -1,4 +1,4 @@
-# Emma Luke Responsive Web Design 
+# Emma Luke Basic Responsive Layout
 
 ## MIT Licence
 MIT Licence
