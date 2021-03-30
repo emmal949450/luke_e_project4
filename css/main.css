@@ -218,16 +218,6 @@ nav a:hover::after {
 	text-decoration: underline;
 }
 
-/*#links {
-    flex-direction: column;
-    justify-content: space-between;
-	text-align: center;
-	color: #312d2e;
-	font-size: 20px;
-	font-family: Oswald, Helvetica, sans-serif;
-	margin: 20px;
-}*/
-
 #line {
 	border-bottom: solid 1px #c37628;
 	padding: 30px;
@@ -247,14 +237,6 @@ nav a:hover::after {
 }
 
 	/*---------------------------------------------Header---------------------------------------------*/
-
-	/*#mainHeader {
-		flex: 1 1 auto;
-	}
-
-	#button {
-		display: none;
-	}*/
 
 	#mainNav {
 	margin-left: 300px;
@@ -334,8 +316,8 @@ nav a:hover::after {
 	margin-bottom: 0px;
 	}
 
-
 	/*#Header End*/
+
 
 	/*---------------------------------------------Shop Page---------------------------------------------*/
 
@@ -361,10 +343,6 @@ nav a:hover::after {
 	color: #fff;
 	}
 
-	/*.img {
-	flex-direction: column;
-	}*/
-
 	#shopText {
 	display: flex;
     flex-direction: row;
@@ -380,6 +358,7 @@ nav a:hover::after {
 
     /*Shop End*/
 
+
     /*---------------------------------------------Footer---------------------------------------------*/
 
 #footer {
@@ -393,7 +372,6 @@ nav a:hover::after {
 #footerNav {
 	margin-left: 385px;
 	width: 520px;
-	/*background-color: #bf1700;*/
 }
 
 .navtextFooter {
